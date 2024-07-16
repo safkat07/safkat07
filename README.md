@@ -1,11 +1,23 @@
-<h3 align="center">A passionate full-stack mern developer from BangladshIndia</h3>
+<h1 align="center">Hi 👋, I'm Safkat Sharif Sadli 👦</h1>
+<h3 align="center">A passionate full-stack mern developer from Dhaka,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safkat07&label=Profile%20views&color=0e75b6&style=flat" alt="safkat07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safkat07" alt="safkat07" /></a> </p>
 
+- 🔭 I’m currently working on [Elevate Mart(E-commerce)](https://github.com/safkat07/E-Commerce)
+
+- 🌱 I’m currently learning **Nextjs,Java,Problem Solving with Java (Leetcode)**
+
+- 💬 Ask me about **Reactjs,Nextjs,Nodejs & MongoDB**
+
+- 📫 How to reach me **safkatsadli@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1iZONJuSxB_gWCaxi0iKcR1JlLdD2WKXO/edit?usp=sharing&ouid=112740545077154631973&rtpof=true&sd=true](https://docs.google.com/document/d/1iZONJuSxB_gWCaxi0iKcR1JlLdD2WKXO/edit?usp=sharing&ouid=112740545077154631973&rtpof=true&sd=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/safkat-sharif-sadli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safkat-sharif-sadli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
